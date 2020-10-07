@@ -19,4 +19,4 @@ Numpy User Guide: https://numpy.org/doc
 Pandas User Guide: https://pandas.pydata.org/docs/user_guide/index.html
 
 ### Notes
--
+For more information, please contact at: aliakamet@gmail.com
