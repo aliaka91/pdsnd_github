@@ -5,7 +5,7 @@
 US BikeShare Data
 
 ### Description
-Describe what your project is about and what it does
+With computing a variety of descriptive statistics, learn about bike share use in Washington, New York City and Chicago.
 
 ### Files used
 Include the files used
