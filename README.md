@@ -17,3 +17,6 @@ washington.csv
 Python Docs: https://docs.python.org/3/library
 Numpy User Guide: https://numpy.org/doc
 Pandas User Guide: https://pandas.pydata.org/docs/user_guide/index.html
+
+### Notes
+-
