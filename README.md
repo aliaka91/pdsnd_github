@@ -8,7 +8,12 @@ US BikeShare Data
 With computing a variety of descriptive statistics, learn about bike share use in Washington, New York City and Chicago.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Python Docs: https://docs.python.org/3/library
+Numpy User Guide: https://numpy.org/doc
+Pandas User Guide: https://pandas.pydata.org/docs/user_guide/index.html
